@@ -1,4 +1,6 @@
-### Latest projects
+### Hi there 👋 
+
+## My latest projects
 
 [Chat](https://github.com/boldurean/Chat) - The analogue of most of Chats. This is the real-time application using AJAX, REST, websockets, React (with hooks) + Redux (@ reduxjs / toolkit) + Formik!  
 P.S. Project is deployed on [Heroku](https://boldurean-chat.herokuapp.com/) and if noone has opened link last 24 hours it will take time to build-in on background or run chached version. Usually it takes about 5-6 secs for first time. 
