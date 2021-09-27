@@ -3,7 +3,7 @@
 [Chat](https://github.com/boldurean/Chat) - The analogue of most of Chats. This is the real-time application using AJAX, REST, websockets, React (with hooks) + Redux (@ reduxjs / toolkit) + Formik!  
 P.S. Project is deployed on [Heroku](https://boldurean-chat.herokuapp.com/) and if noone has opened link last 24 hours it will take time to build-in on background or run chached version. Usually it takes about 5-6 secs for first time. 
 
-[RSS Feeder](https://github.com/boldurean/RSS-Reader) - RSS Reader is an rss web service for collecting and easy access to news or other resources you love! This project is developed by using MVC design pattern -> Vanilla JS + Bootstrap v5.
+[RSS Feeder](https://github.com/boldurean/RSS-Reader) - is an rss web service for collecting and easy access to news or other resources you love! This project is developed by using MVC design pattern -> Vanilla JS + Bootstrap v5.
 
 [GenDiff](https://github.com/boldurean/gendiff) - CLI tool for comparing two configuration files like .json & .yaml/yml and show the difference.
 
